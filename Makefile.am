@@ -50,6 +50,7 @@ PRINTERS			= printer/Brother-QL-500.xml \
 				  printer/Brother-PT-P700.xml \
 				  printer/Brother-PT-P710BT.xml \
 				  printer/Brother-PT-P900W.xml \
+				  printer/Brother-PT-P910BT.xml \
 				  printer/Brother-PT-P950NW.xml \
 				  printer/Brother-PT-1500PC.xml \
 				  printer/Brother-PT-1950VP.xml \

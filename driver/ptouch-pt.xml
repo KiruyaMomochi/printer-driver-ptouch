@@ -105,6 +105,9 @@ USA
   <printer>
    <id>printer/Brother-PT-P710BT</id>
    </printer>
+  <printer>
+   <id>printer/Brother-PT-P910BT</id>
+   </printer>
  </printers>
 </driver>
 
